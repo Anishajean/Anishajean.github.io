@@ -206,3 +206,11 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline; /* Underline on hover */
 }
+
+#research-image {
+    max-width: 70%;  /* Makes the image responsive */
+    height: auto;     /* Maintains aspect ratio */
+    display: block;   /* Centers the image within its container */
+    margin: 0 auto;
+}
+
